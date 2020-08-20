@@ -3,7 +3,7 @@
 ## **CVDS-1**
 ### **Ciclos de Vida del Desarrollo de Software**
 
-![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Logo.PNG) "Logo"
+![](https://github.com/DonSantiagoS/LAB2CVDS/tree/master/Imagenes/Logo.PNG) "Logo"
 
 
 ## _Maven_
