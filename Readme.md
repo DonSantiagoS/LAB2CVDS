@@ -68,7 +68,8 @@ mvn archetype:generate -DgropuId=edu.eci.cvds -DartifactId=Patterns -DarchetypeA
 ```
 ### **Configuracion de la version Java**
 
- cambiar la version del compilador de Java a la versión 8, para ello, agregue la sección properties antes de la sección de dependencias
+Cambiar la version del compilador de Java a la versión 8, para ello, agregue la sección properties antes de la sección de dependencias
+
 ![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Configuracion.PNG) "Configuracion"
 
 ### **Comandos basicos de Maven**
@@ -89,9 +90,9 @@ Tomado de [chuwiki][4]
 mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
 ```
 
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Evidencia1.jpge) "Evidencia"
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Evidencia2.jpge) "Evidencia"
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Evidencia3.jpge) "Evidencia"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Evidencia1.jpeg) "Evidencia"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Evidencia2.jpeg) "Evidencia"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Evidencia3.jpeg) "Evidencia"
 
 ### Primera ejecucion sin parametros
 ![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion1.PNG) "Ejecucion"
