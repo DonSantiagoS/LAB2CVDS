@@ -11,15 +11,17 @@
 La herramienta Apache Maven se usa para gestionar y manejar proyectos de software. La base de maven para un proyecto es el concepto de un modelo de objeto de proyecto (POM), Maven puede gestionar la compilación, los informes y la documentación de un proyecto a partir de este modelo, que se concreta en el archivo pom.xml.
 Tomado de [Apache Maven][2]
 
-**•	Cuál es su mayor utilidad**
+### **•	Cuál es su mayor utilidad**
 Hasta que Maven ofreció un marco popular para la creación de aplicaciones, cada proyecto solía tener a alguien dedicado exclusivamente a configurar el método de creación.
-Además, los desarrolladores tenían que perder tiempo aprendiendo las peculiaridades de cada nuevo proyecto en el que participaban.
+Además, los desarrolladores tenían que perder tiempo aprendiendo las peculiaridades de cada nuevo proyecto en el que participaban.\
 
-**•	Fases de Maven**
+
+### **•	Fases de Maven**
 Las fases que componen cada ciclo de vida también están predefinidas; Dado que cada fase es responsable de un paso particular del ciclo de vida al que se refiere, la forma en que se llevan a cabo dichas tareas puede diferir según el tipo de proyecto. Para configurar lo que se logra en cada proceso, cada paso está conectado a uno o más objetivos del complemento. Por lo tanto, ejecutar un paso del ciclo de vida equivale a ejecutar los objetivos de los complementos vinculados a ese proceso. Algunas fases ya tienen objetivos de complementos relacionados por diseño. Esta vinculación varía según el tipo de embalaje del proyecto.
 Las fases principales de Maven son las siguientes:
 
 1. **Validar:** Revisar si toda la información necesaria para el constructor esta disponible.
+
 2. **Compilar:** Compilar el código base.
 3. **Compilar-test:** Compilar los tests del código base.
 4. **Test:** Compilar pruebas de Unidad.
