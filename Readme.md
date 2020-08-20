@@ -38,10 +38,10 @@ El otro principio básico de Maven para manejar el desarrollo de un proyecto es 
 * **_El ciclo de vida default_**, que gestiona la construcción y despliegue del proyecto.
 ![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo1.PNG) "CICLO"
 * **_El ciclo de vida clean_**, que gestiona la limpieza del directorio del proyecto. Es decir, se encarga de eliminar todos los archivos generados en el proceso de construcción y despliegue.
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo2.png) "CICLO"
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo2-1.png) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo2.PNG) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo2-1.PNG) "CICLO"
 * **_El ciclo de vida site_**, que gestiona la creación de la documentación del proyecto.
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo3.png) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Ciclo3.PNG) "CICLO"
 
 ### **•	Para qué sirven los plugins**
 
