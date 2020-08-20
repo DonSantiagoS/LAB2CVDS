@@ -1,9 +1,9 @@
 
 # **Laboratorio N°2**
-## **CVDS - 1 **
+## **CVDS-1**
 ### **Ciclos de Vida del Desarrollo de Software**
 
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Logo.PNG) "Logo"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Logo.PNG) "Logo"
 
 
 ## _Maven_
@@ -33,12 +33,12 @@ Tomado de [BealDung][3]
 El otro principio básico de Maven para manejar el desarrollo de un proyecto es el ciclo de vida. Un ciclo de vida consta de una serie de etapas. En Maven se definen tres ciclos de vida por defecto y normalmente nunca verá la necesidad de definir otros adicionales. Los tres ciclos de vida de Maven son:
 
 * El ciclo de vida default, que gestiona la construcción y despliegue del proyecto.
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ciclo1.PNG) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ciclo1.PNG) "CICLO"
 * El ciclo de vida clean, que gestiona la limpieza del directorio del proyecto. Es decir, se encarga de eliminar todos los archivos generados en el proceso de construcción y despliegue.
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ciclo2.PNG) "CICLO"
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ciclo2-1.PNG) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ciclo2.PNG) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ciclo2-1.PNG) "CICLO"
 * El ciclo de vida site, que gestiona la creación de la documentación del proyecto.
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ciclo3.PNG) "CICLO"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ciclo3.PNG) "CICLO"
 
 ### **•	Para qué sirven los plugins**
 
@@ -66,7 +66,7 @@ mvn archetype:generate -DgropuId=edu.eci.cvds -DartifactId=Patterns -DarchetypeA
 ### **Configuracion de la version Java**
 
  cambiar la version del compilador de Java a la versión 8, para ello, agregue la sección properties antes de la sección de dependencias
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Configuracion.PNG) "Configuracion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Configuracion.PNG) "Configuracion"
 
 ### **Comandos basicos de Maven**
 
@@ -83,18 +83,18 @@ Tomado de [chuwiki][4]
 ```
 mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
 ```
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Evidencia1.PNG) "Evidencia"
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Evidencia2.PNG) "Evidencia"
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Evidencia3.PNG) "Evidencia"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Evidencia1.PNG) "Evidencia"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Evidencia2.PNG) "Evidencia"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Evidencia3.PNG) "Evidencia"
 
 ### Primera ejecucion sin parametros
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ejecucion1.PNG) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ejecucion1.PNG) "Ejecucion"
 ### segunda ejecucion "qwerty"
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ejecucion2.PNG) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ejecucion2.PNG) "Ejecucion"
 ### Tercera ejecucion "pentagon"
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ejecucion3.PNG) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ejecucion3.PNG) "Ejecucion"
 ### Cuarta ejecucion "Hexagon"
-![](https://github.com/DonSantiagoS/LAB1CVDS/blob/master/Santiago/Imagenes/Ejecucion4.PNG) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/Imagenes/Ejecucion4.PNG) "Ejecucion"
 
 ### **Gitignore**
 
