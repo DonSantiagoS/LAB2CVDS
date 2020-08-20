@@ -97,11 +97,11 @@ mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"
 ### Primera ejecucion sin parametros
 ![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion1.PNG) "Ejecucion"
 ### segunda ejecucion "qwerty"
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion2.png) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion2.PNG) "Ejecucion"
 ### Tercera ejecucion "pentagon"
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion3.png) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion3.PNG) "Ejecucion"
 ### Cuarta ejecucion "Hexagon"
-![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion4.png) "Ejecucion"
+![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/ejecucion4.PNG) "Ejecucion"
 
 ### **Gitignore**
 
